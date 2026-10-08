@@ -1,9 +1,0 @@
-{
-    "polkit": {
-        "allow-installation": {
-            "plug-attributes": {
-                "action-prefix": "org.signalapp"
-            }
-        }
-    }
-}
